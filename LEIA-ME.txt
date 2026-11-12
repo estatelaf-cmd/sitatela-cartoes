@@ -1,0 +1,14 @@
+SITATELA.COM — PASTA DE CARTOES
+================================
+- index.html .......... pagina inicial (sitatela.com) = cartao do Estatela.
+  >> Se o teu sitatela.com atual tem outro cartao, substitui este index.html por esse antes de apontar o dominio.
+- leads.html .......... app Distribuidor de Leads (sitatela.com/leads)
+- zeferina.html, fazenda.html, aira.html, leog.html, santa-abilio.html,
+  leocadia.html, paulo.html, luria.html, adalmiro.html, mariana.html ... cartoes (sitatela.com/<nome>)
+
+COMO ADICIONAR UM CARTAO NOVO (no telemovel, no GitHub):
+1. Abre o repositorio no GitHub.
+2. Add file > Upload files.
+3. Arrasta o HTML do cartao novo (nome curto, ex.: joao.html).
+4. Commit changes.
+5. ~1 min depois fica vivo em sitatela.com/joao
